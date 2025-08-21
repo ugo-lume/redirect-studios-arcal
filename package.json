@@ -1,0 +1,11 @@
+{
+  "name": "arcal-redirect",
+  "version": "1.0.0",
+  "main": "redirect.js",
+  "scripts": {
+    "start": "node redirect.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
